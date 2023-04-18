@@ -1,2 +1,6 @@
 sergey.iod
 file1
+
+
+777lsg
+edit file1.txt
